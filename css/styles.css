@@ -1,0 +1,197 @@
+/********************************TAG SELECTORS*********************************/
+body {
+  background-color: #fcf9ec;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+  color: #40514e;
+}
+
+h1 {
+  font-family: 'Great Vibes', cursive;
+  margin: 90px auto 0 auto;
+  font-size: 5rem;
+  color: #18b0b0;
+}
+
+span {
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5em;
+  line-height: 2;
+  margin-top: 0;
+  color: #18b0b0;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+}
+hr {
+  border-top: 6px dotted #757575;
+  width: 6%;
+}
+/********************************CLASS SELECTORS*********************************/
+.top-container {
+  background-color: #bdf2d5;
+  padding-top: 110px;
+  position: relative;
+}
+.headingspadding {
+  padding-top: 20px;
+}
+.middle-container {
+  margin-bottom: 40px;
+}
+
+.bottom-container {
+  background-color: #18b0b0;
+  padding: 40px;
+}
+
+.contact-me {
+  margin-top: 60px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.contact-mespacing {
+  margin-bottom: 25px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 150px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 340px;
+  left: 260px;
+}
+
+.para1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5em;
+  font-weight: normal;
+}
+
+.profileimage {
+  height: 150px;
+  width: 150px;
+}
+.profile {
+  width: 50%;
+  margin: 70px auto 70px;
+}
+.profilepara {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 2;
+}
+
+.skills {
+  padding-top: 50px;
+}
+
+.skillimage1 {
+
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skillimage2 {
+
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.h3bottom {
+  padding-top: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin:50px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+.skillsheading {
+  margin-bottom: 0;
+}
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
+  color: #007065;
+  margin: 13px;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: #eaf6f6;
+}
+.bottompara {
+  margin: 50px auto 5px;
+  color: #393e46;
+  font-size: 0.75rem;
+}
+.btn {
+
+box-shadow:outset 1px 1px 20px 0px #000000;
+
+background:linear-gradient(to bottom, #007065 5%, #11cdd4 100%);
+
+background-color:#007065;
+
+border-radius:8px;
+
+border:1px solid #337fed;
+
+display:inline-block;
+
+cursor:pointer;
+
+color:#ffffff;
+
+font-family: 'Montserrat', sans-serif;
+
+font-size:20px;
+
+font-weight:100;
+
+padding: 10px;
+
+margin-top: 25px;
+
+margin-bottom: 20px;
+
+text-decoration:none;
+
+text-shadow:1px 1px 20px #000000;
+
+}
+
+.btn:hover {
+
+background:linear-gradient(to bottom, #2BC4AD 5%, #30E3CB 100%);
+
+background-color: #30E3CB;
+
+}
+
+.btn:active {
+
+position:relative;
+
+top:1px;
+
+}
+
+
+
+/********************************ID SELECTORS*********************************/
